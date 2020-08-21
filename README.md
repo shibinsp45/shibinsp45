@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shibinsp45" alt="shibinsp45" /> </p>
 
-- 🔭 I’m currently studying  in **PROVIDENC E COLLEGE OF ENGINEERING CHENGANNUR**
+- 🔭 I’m currently studying  in **PROVIDENCE COLLEGE OF ENGINEERING CHENGANNUR**
 
 - 🌱 I’m currently learning **PYTHON CPP JAVA**
 
