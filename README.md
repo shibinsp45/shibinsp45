@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently studying  in **PROVIDENCE COLLEGE OF ENGINEERING CHENGANNUR**
 
-- 🌱 I’m currently learning **More Languages**
+- 🌱 I’m currently learning **More Programming  Languages**
 
 - 👨‍💻 All of my projects are available at [github.com/shibinsp45](shibin.me)
 
