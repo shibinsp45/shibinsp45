@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shibinsp45" alt="shibinsp45" /> </p>
 
-- 🔭 I’m currently studying  in **PROVIDENCE COLLEGE OF ENGINEERING CHENGANNUR**
+- 🔭 Student at **PROVIDENCE COLLEGE OF ENGINEERING CHENGANNUR**
 
-- 🌱 I’m currently learning **More Programming  Languages**
+- 🌱  currently learning **More Programming  Languages**
 
 - 👨‍💻 All of my projects are available at [github.com/shibinsp45](shibin.me)
 
