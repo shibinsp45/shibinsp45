@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shibinsp45" alt="shibinsp45" /> </p>
 
-- 🔭 Student at **PROVIDENCE COLLEGE OF ENGINEERING CHENGANNUR**
+- 🔭I'm currently pursuing  **B-Tech in  Computer Science Enginnering**
 
 - 🌱  currently learning **More Programming  Languages**
 
