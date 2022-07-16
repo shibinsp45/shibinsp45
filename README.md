@@ -1,16 +1,16 @@
-<h1 align="center">Hei there :)  </p>
- Iam Shibin 🙌</h1>
-<h3 align="center">  Developer from India </h3>
+<h1 align="center">Hei :)  </p>
+ Iam Shibin </h1>
+<h3 align="center">  Dev from India </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shibinsp45" alt="shibinsp45" /> </p>
 
 -💬 A Passionate entusiastic coder and developer
 
--:heart:I'm currently pursuing  **B-Tech in  Computer Science Enginnering**
+-:heart:Currently pursuing  **B-Tech in  Computer Science Enginnering**
 
 -:pencil2: learning **More Programming  Languages**
 
--:pushpin:All of my projects are available at [github.com/shibinsp45](shibin.me)
+-:pushpin:All of my projects are available at [https://github.com/shibinsp45?tab=repositories)
 
 
 
