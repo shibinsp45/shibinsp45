@@ -16,7 +16,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=shibinsp45">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyril1010&amp;">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shibinsp45&amp;">
 
 <h4 align="center">Connect with me on</h4>
 <p align="center">
