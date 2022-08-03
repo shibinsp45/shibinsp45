@@ -4,11 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shibinsp45" alt="shibinsp45" /> </p>
 
--💬 A Passionate entusiastic coder and developer
+-💬 A Passionate coder and developer
 
 -:heart:Currently pursuing  **B-Tech in  Computer Science Enginnering**
 
--:pencil2: learning **More Programming  Languages**
+-:pencil2: Learning **More Programming Languages**
 
 -:pushpin:All of my projects are available at [https://github.com/shibinsp45?tab=repositories)
 
