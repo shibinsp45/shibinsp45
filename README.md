@@ -2,8 +2,13 @@
  Iam Shibin🙌 </h1>
 <h3 align="center">  Dev from India </h3>
 
+<img align="right" alt="Code gif" src="https://github.com/Noel6161131110/Noel6161131110/blob/main/assets/coding.gif" width="360"/>
+<img align="right" alt="Code gif" src="https://github.com/Noel6161131110/Noel6161131110/blob/main/assets/coding-freak.gif" width="360"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shibinsp45" alt="shibinsp45" /> </p>
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shibinsp45" alt="shibinsp45" 
+ /> </p>
 
 -💬 A Passionate designer and developer
 
@@ -13,6 +18,8 @@
 
 -:pushpin:All of my projects are available here
 <hr>
+
+
 
 <h3 align="center">Languages and Tools:</h3>
 
