@@ -2,11 +2,6 @@
  Iam Shibin🙌 </h1>
 <h3 align="center">  Dev from India </h3>
 
-<img align="right" alt="Code gif" src="https://github.com/Noel6161131110/Noel6161131110/blob/main/assets/coding.gif" width="360"/>
-<img align="right" alt="Code gif" src="https://github.com/Noel6161131110/Noel6161131110/blob/main/assets/coding-freak.gif" width="360"/>
-
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shibinsp45" alt="shibinsp45" 
  /> </p>
 
@@ -19,7 +14,7 @@
 -:pushpin:All of my projects are available here
 <hr>
 
-
+<img align="right" alt="Code gif" src="https://github.com/Noel6161131110/Noel6161131110/blob/main/assets/coding.gif" width="360"/>
 
 <h3 align="center">Languages and Tools:</h3>
 
@@ -28,6 +23,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/><a href="https://www.python.org" target="_blank" rel="noreferrer"></a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 <hr>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shibinsp45&show_icons=true&locale=en&layout=compact" alt="shbinsp45" /></p><img allign="center" src="https://github-readme-stats.vercel.app/api?username=shibinsp45" > 
 </p>
 <h4 align="center">Connect with me on:</h4>
@@ -38,6 +34,6 @@
 <a href="https://linkedin.com/in/shibin-sp-24279a16b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shibin-sp-24279a16b/" height="30" width="40" /></a>
 <a href="https://instagram.com/shibinsp45" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shibinsp45" height="30" width="40" /></a>
 <a href="https://dribbble.com/shibinsp45" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="shibinsp45" height="30" width="40" /></a>
-<a href="mailto:shibinsp45gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="git" height="30" width="30" /></a>
+<a href="mailto:shibinsp45@gmail.com"><img src="https://github.com/Noel6161131110/Noel6161131110/blob/main/assets/gmail.svg" height="30px" width="40px" alt="mail"></a>
 </h5>
 
