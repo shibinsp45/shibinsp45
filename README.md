@@ -9,9 +9,9 @@
 
 -:heart:Currently graduated  *B-Tech in  Computer Science and  Engineering*
 
--:pencil2: Learning *More Programming Languages*
+-:pencil2: I'm Learning **MEARN**
 
--:pushpin:All of my projects are available here
+-:pushpin:All of my projects are available here: http://lnkiy.in/Repositories
 <hr>
 
 <img align="right" alt="Code gif" src="https://github.com/Noel6161131110/Noel6161131110/blob/main/assets/coding.gif" width="360"/>
