@@ -9,7 +9,7 @@
 
 -:heart:Currently graduated  *B-Tech in  Computer Science and  Engineering*
 
--:pencil2: I'm Learning **MEARN**
+-:pencil2: I'm Currently Learning **MEARN**
 
 -:pushpin:All of my projects are available here: http://lnkiy.in/Repositories
 <hr>
