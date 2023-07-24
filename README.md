@@ -5,9 +5,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shibinsp45" alt="shibinsp45" 
  /> </p>
 
--💬 A Passionate designer and developer
+-💬 A Passionate Designer🖌️ and Developer💻
 
--:heart:Currently pursuing  *B-Tech in  Computer Science Enginnering*
+-:heart:Currently graduated  *B-Tech in  Computer Science and  Engineering*
 
 -:pencil2: Learning *More Programming Languages*
 
