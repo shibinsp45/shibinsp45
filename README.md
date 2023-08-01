@@ -1,10 +1,13 @@
 <h1 align="center"><b> Hello < Developers/ >!</b><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1> </h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=It's+me+Shibin;Developer+from+India;Full+Stack+Developer;Computer+Science+Engineer;UI+UX+Designer;Active+Learner/Researcher;Love+to+learn+new+stuffs..<3">
+<img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=It's+me+Shibin;Developer+from+India;Full+Stack+Developer;Computer+Science+Engineer;UI+UX+Designer;Active+Learner/Researcher;Love+to+learn+new+stuffs..<3">
+<p align="center">
+<img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif"  width = 200px>
 </p>
 <!--🖼️OCTOCAT-->
-<p align="center">
-<img src="https://media.giphy.com/media/IP7sarl7C5lSFCw9rG/giphy.gif"  width="100px" height="100px"> <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif"  width = 180px></h2> </p>
+<p align="left">
+<img src="https://media.giphy.com/media/IP7sarl7C5lSFCw9rG/giphy.gif"  width="100px" height="100px"> 
+</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shibinsp45" alt="shibinsp45" 
  
 </p>
