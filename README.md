@@ -34,10 +34,12 @@
 ![](https://github-readme-stats.vercel.app/api?username=shibinsp45&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false)<br/>
 </p>
 <img align="right" src="https://c.tenor.com/SOVMSXmWB1kAAAAi/tony-star-jumping.gif" width="100">
-
+<!--🎵SPOTIFY / 🌐WEBSITE: https://github.com/kittinan/spotify-github-profile -->
+<p align="left">
+<a href="https://www.chosic.com/random-songs-generator-with-links-to-spotify-and-youtube/"><img src="https://raw.githubusercontent.com/trinib/spotify-github-profile/master/img/default.svg" height="100" width="250"></a>
 <h4 align="center">Connect with me on:</h4>
 <p align="center">
-
+<p align="center">
 <h5 align="center">
 <a href="https://twitter.com/shibinsp45" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shibinsp45" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/shibin-sp-24279a16b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shibin-sp-24279a16b/" height="30" width="40" /></a>
