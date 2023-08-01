@@ -11,7 +11,7 @@
 
 -:pencil2: I'm Currently Learning **MEARN**
 
--:pushpin:All of my projects are available here: [Repositories](http://lnkiy.in/Repositories)
+-:pushpin:All of my projects are available here: [My Projects ](http://lnkiy.in/Repositories)
 <hr>
 
 <img align="right" alt="Code gif" src="https://github.com/Noel6161131110/Noel6161131110/blob/main/assets/coding.gif" width="360"/>
