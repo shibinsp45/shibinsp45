@@ -4,6 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shibinsp45" alt="shibinsp45" 
  /> </p>
+  <!--🖼️OCTOCAT-->
+<p align="center">
+<img src="https://media.giphy.com/media/IP7sarl7C5lSFCw9rG/giphy.gif"  width="100px" height="100px"></p>
 
 -💬 A Passionate Designer🖌️ and Developer💻
 
@@ -28,6 +31,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shibinsp45&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ![](https://github-readme-stats.vercel.app/api?username=shibinsp45&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false)<br/>
 </p>
+
 <h4 align="center">Connect with me on:</h4>
 <p align="center">
 
@@ -38,4 +42,5 @@
 <a href="https://dribbble.com/shibinsp45" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="shibinsp45" height="30" width="40" /></a>
 <a href="mailto:shibinsp45@gmail.com"><img src="https://github.com/Noel6161131110/Noel6161131110/blob/main/assets/gmail.svg" height="30px" width="40px" alt="mail"></a>
 </h5>
-
+<!--🐍📈SNAKEGRAPH / 🌐WEBSITE: https://github.com/Platane/snk -->
+<img src="https://raw.githubusercontent.com/trinib/trinib/snake/github-contribution-grid-snake-dark.svg" width="100%">
