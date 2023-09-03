@@ -2,11 +2,12 @@
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=It's+me+Shibin;Developer+from+India;Full-+Stack+Developer;Computer+Science+Engineer;UI/UX+Designer;Active+Learner/Researcher;Love+to+learn+new+stuffs..<3">
 <p align="center">
-<img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif"  width = 300px>
+<img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif"  width = 290px>
 </p>
 <!--🖼️OCTOCAT-->
 <p align="left">
 <img src="https://media.giphy.com/media/IP7sarl7C5lSFCw9rG/giphy.gif"  width="100px" height="100px"> 
+ 
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shibinsp45" alt="shibinsp45" 
  
@@ -22,7 +23,7 @@
 <!--📏LINE-->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"> 
 <p align='center'>
-<img src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="400" height="400" frameBorder="0" class="giphy-embed" allowFullScreen></img>
+<img src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" align="center" height="20%" width="50%" />
 <h3 align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" height="30" width ="35"> Languages and Tools:</h3>
 
 <p align="center"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> 
@@ -32,10 +33,9 @@
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/><a href="https://www.python.org" target="_blank" rel="noreferrer"></a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 <!--📏LINE-->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
+  
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <br>
-
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shibinsp45&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ![](https://github-readme-stats.vercel.app/api?username=shibinsp45&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false)<br/>
 </p>
@@ -48,13 +48,17 @@
 <p align="center">
 <p align="center">
 <h5 align="center">
+<a href="mailto:shibinsp45@gmail.com" target="_blank"><img align="center"  src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" height="30" alt="gmail logo"  />
 <a href="https://twitter.com/shibinsp45" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shibinsp45" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/shibin-sp-24279a16b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shibin-sp-24279a16b/" height="30" width="40" /></a>
 <a href="https://instagram.com/shibinsp45" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shibinsp45" height="30" width="40" /></a>
 <a href="https://dribbble.com/shibinsp45" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="shibinsp45" height="30" width="40" /></a>
-<a href="mailto:shibinsp45@gmail.com"><img src="https://github.com/Noel6161131110/Noel6161131110/blob/main/assets/gmail.svg" height="30px" width="40px" alt="mail"></a>
+  </a>
 </h5>
+ <img src="https://camo.githubusercontent.com/3c96d0521a7b2d46a0958533b48915bec6caad3c14fba734bfc85c489fd65a32/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d36302677696474683d3333302673656374696f6e3d666f6f746572" height="" width="100%"/>
+<h5>🐍 Snake eating my contributions </h5>
 <!--🐍📈SNAKEGRAPH / 🌐WEBSITE: https://github.com/Platane/snk -->
+
 <img src="https://raw.githubusercontent.com/trinib/trinib/snake/github-contribution-grid-snake-dark.svg" width="100%">
   
 ![Dino](https://raw.githubusercontent.com/arjunMee/arjunMee/master/dino.gif?token=AQWYXGQBQLHFPDHPO7E2UOLAUYRTI)
