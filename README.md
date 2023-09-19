@@ -17,7 +17,7 @@
 
 -:heart:Currently graduated  *B-Tech in  Computer Science and  Engineering* 
 
--:pencil2: I'm Currently Learning **MEARN**
+-:pencil2: I'm Currently Learning **ME(A)RN**
 
 -:pushpin:All of my projects are available here: [My Projects ](http://lnkiy.in/Repositories) 
 <!--📏LINE-->
