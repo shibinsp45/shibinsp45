@@ -17,9 +17,9 @@
 
 -:heart:Currently graduated  *B-Tech in  Computer Science and  Engineering* 
 
--:pencil2: I'm Currently Learning **ME(A)RN**
+-:pencil2: I'm Currently Learning [**ME(A)RN**](https://github.com/shibinsp45/ME-A-RN)
 
--:pushpin:All of my projects are available here: [My Projects ](http://lnkiy.in/Repositories) 
+-:pushpin:All of my projects are available at: [Projects ](http://lnkiy.in/Repositories) 
 <!--📏LINE-->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"> 
 <p align='center'>
