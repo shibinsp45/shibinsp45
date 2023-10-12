@@ -44,15 +44,18 @@
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=radical)
 
+
+
 <h4 align="center" >Connect with me on: <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px"> </h4>
 <p align="center">
 <p align="center">
 <h5 align="center">
 <a href="mailto:shibinsp45@gmail.com" target="_blank"><img align="center"  src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" height="30" alt="gmail logo"  />
-<a href="https://twitter.com/shibinsp45" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shibinsp45" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/shibin-sp-24279a16b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shibin-sp-24279a16b/" height="30" width="40" /></a>
+<a href="https://www.twitter.com/shibinsp45" target="_blank" rel="noreferrer"><img  align="center"src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
+<a href="https://www.linkedin.com/in/shibinsp45/" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 <a href="https://instagram.com/shibinsp45" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shibinsp45" height="30" width="40" /></a>
 <a href="https://dribbble.com/shibinsp45" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="shibinsp45" height="30" width="40" /></a>
+<a href="https://www.facebook.com/shibinsp45" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a>
   </a>
 </h5>
  <img src="https://camo.githubusercontent.com/3c96d0521a7b2d46a0958533b48915bec6caad3c14fba734bfc85c489fd65a32/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d36302677696474683d3333302673656374696f6e3d666f6f746572" height="" width="100%"/>
