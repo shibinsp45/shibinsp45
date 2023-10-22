@@ -2,9 +2,7 @@
 <h1 align="center"><b>I'am Shibin </b><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1> </h1>
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Developer+from+India;Full-+Stack+Developer;Computer+Science+Engineer;UI/UX+Designer;Active+Learner/Researcher;Love+to+learn+new+stuffs..<3">
-<p align="center">
-<img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif"  width = 290px>
-</p>
+
 <!--🖼️OCTOCAT-->
 <p align="left">
 <img src="https://media.giphy.com/media/IP7sarl7C5lSFCw9rG/giphy.gif"  width="100px" height="100px"> 
@@ -23,7 +21,8 @@
 <!--📏LINE-->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"> 
 <p align='center'>
-<img src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" align="center" height="20%" width="50%" />
+<img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif"  width = 300 px>
+
 <h3 align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" height="30" width ="35"> Languages and Tools:</h3>
 
 
