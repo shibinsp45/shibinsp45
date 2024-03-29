@@ -11,7 +11,7 @@
  
 </p>
   
--💬 A Passionate Full Stack Developer 💻 UI UX Designer 🖌️
+-💬 A Passionate Full Stack Developer 💻 UI/UX Designer 🖌️
 
 -:heart:Graduated  *B-Tech in  Computer Science and  Engineering* 
 
