@@ -51,7 +51,6 @@
 
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=radical)
-
 <h4 align="center" >Connect with me on: <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px"> </h4>
 <p align="center">
 <p align="center">
