@@ -15,7 +15,7 @@
 
 -:heart:Graduated  *B-Tech in  Computer Science and  Engineering* 
 
--:pencil2:Currently Learning [**ME(A)RN**](https://github.com/shibinsp45/ME-A-RN)
+-:pencil2:Currently Learning UI UX Design
 
 -:pushpin:All of my projects are available at: [Projects ](http://lnkiy.in/Repositories) 
 <!--📏LINE-->
