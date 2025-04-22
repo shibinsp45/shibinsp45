@@ -1,5 +1,5 @@
 <h1 align="center"><b> Hello < Developers/ >!</b><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1> </h1>
-<h1 align="center"><b>I'am Shibin SP </h1>
+<h1 align="center"><b>I'am Shibin S P </h1>
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Full+Stack+Developer;Computer+Science+Engineer;UI/UX+Designer;AI+Enthusiast;Active+Learner/Researcher;Love+to+learn+new+things..<3">
 
